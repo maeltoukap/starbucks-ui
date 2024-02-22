@@ -3,4 +3,5 @@
 UI Inspiration: https://dribbble.com/shots/18580900-Coffee-Shop-Mobile-App
 
 
-![WhatsApp Image 2024-02-17 at 7 16 47 PM](https://github.com/maeltoukap/flutter_starbucks_ui_challenge/assets/29474697/fff01446-1c53-42bb-90b4-86aa7e80df15)
+
+<img width="1120" alt="86CFD573-3392-41A0-A7C8-1F91E4766576" src="https://github.com/maeltoukap/starbucks-ui/assets/74214399/71ac9d79-09a9-4e61-a77c-9be495344f43">
